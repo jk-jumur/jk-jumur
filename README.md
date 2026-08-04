@@ -1,23 +1,28 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/main/banner.png" alt="Jannatul Khusbu Banner" width="100%" />
-</p>
+<img width="1200" height="400" alt="Add a heading" src="https://github.com/user-attachments/assets/e86eb7a6-e916-422c-bfa3-4ae9508cf47b" />
+
 
 # Hi 👋, This is Jannatul Khusbu (Jumur)
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60px" alt="Cat Animation">
-</p>
+
 
 A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
-- 📍 Location: **Feni, Bangladesh**
+
 - 💡 I would like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I'm currently working on **React.js, Next.js (15+), and Modern Web UI**
 - ⚙️ Using **Node.js, Express.js, and MongoDB** for backend services
 - 👯 I'm looking to collaborate on **Full-Stack Projects & Open Source**
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
+- 📍 Location: **Feni, Bangladesh**
 - 💬 Ask me about anything **[here](mailto:jumur581@gmail.com)**
+
+---
+
+### 🚀 Featured Projects
+
+- 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
+- 🤝 **KeenKeeper:** A smart friendship management platform designed to organize and maintain personal relationships effortlessly. Built with Next.js, React, Recharts, DaisyUI, and Tailwind CSS.
 
 ---
 
@@ -64,13 +69,6 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
-- 🤝 **KeenKeeper:** A smart friendship management platform designed to organize and maintain personal relationships effortlessly. Built with Next.js, React, Recharts, DaisyUI, and Tailwind CSS.
 
 ---
 
