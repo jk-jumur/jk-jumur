@@ -12,7 +12,7 @@ A passionate **Full-Stack Developer** specializing in building modern, scalable,
 
 ### ⚡ QUICK OVERVIEW:
 
-- 💻 **Frontend Focus:** React.js, Next.js (15+), JavaScript (ES6+), Tailwind CSS, Hero UI
+- 💻 **Frontend Focus:** React.js, Next.js (15+), JavaScript (ES6+), Tailwind CSS, HeroUI, DaisyUI
 - ⚙️ **Backend Focus:** Node.js, Express.js, MongoDB, RESTful APIs, Authentication
 - 🚀 **Currently Exploring:** Advanced Next.js features, System Architecture, and Performance Optimization
 - 🎯 **Let's Connect:** Open for Full-Stack collaborations, freelance projects, and tech discussions!
@@ -45,6 +45,8 @@ A passionate **Full-Stack Developer** specializing in building modern, scalable,
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
