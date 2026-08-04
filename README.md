@@ -6,15 +6,20 @@
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
 
-- ⚡ Hi, I'm **[@jk-jumur](https://github.com/jk-jumur)**
-- 💻 I'm currently working on **React.js, Next.js, JavaScript (ES6+), and Tailwind CSS** for frontend development.
-- ⚙️ Using **Node.js, Express.js, and MongoDB** for the backend.
-- 🎯 Ask me about **Full-Stack (React, Next.js, Node.js, Express.js, MongoDB, Tailwind, Hero UI)**.
-- 💬 Feel free to reach out to me via **[Email](mailto:jumur581@gmail.com)**
+A passionate **Full-Stack Developer** specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
 ---
 
-### FOLLOW ME ON SOCIALS:
+### ⚡ QUICK OVERVIEW:
+
+- 💻 **Frontend Focus:** React.js, Next.js (15+), JavaScript (ES6+), Tailwind CSS, Hero UI
+- ⚙️ **Backend Focus:** Node.js, Express.js, MongoDB, RESTful APIs, Authentication
+- 🚀 **Currently Exploring:** Advanced Next.js features, System Architecture, and Performance Optimization
+- 🎯 **Let's Connect:** Open for Full-Stack collaborations, freelance projects, and tech discussions!
+
+---
+
+### 🌐 CONNECT WITH ME:
 
 <p align="left">
   <a href="https://facebook.com/KhusbuJannat" target="_blank">
@@ -30,63 +35,43 @@
 
 ---
 
-### 🛠️ TECHNOLOGY STACK:
+### 🛠️ TECH STACK:
 
-#### Languages:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-#### CSS Frameworks & Libraries:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-</p>
-
-#### JavaScript Frameworks & Libraries:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-</p>
-
-#### Database:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-</p>
-
-#### Deployment Platform:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-</p>
-
-#### Tools & Technologies:
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
 ### 💼 FEATURED PROJECTS:
 
-| Project Name | Description | Tech Stack | Live Demo / Code |
+| Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **SkillSphere** | Modern & interactive E-Learning platform empowering learners with structured courses, project-based content, and personalized progress tracking. | Next.js 15, React 19, Better Auth, MongoDB, HeroUI, Tailwind CSS | [Live Demo](https://skillsphere.vercel.app) · [Code](https://github.com/jk-jumur/skillsphere) |
-| **KeenKeeper** | Sophisticated friendship management platform designed to organize, track, and maintain personal relationships effortlessly. | Next.js, React, Recharts, DaisyUI, Tailwind CSS | [Live Demo](https://YOUR-KEENKEEPER-DEMO-LINK) · [Code](https://github.com/jk-jumur/keenkeeper) |
+| **SkillSphere** | Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. | Next.js 15, React 19, MongoDB, HeroUI, Tailwind CSS | [Live Demo](https://skillsphere.vercel.app) · [Code](https://github.com/jk-jumur/skillsphere) |
+| **KeenKeeper** | Friendship management platform designed to organize and maintain personal relationships effortlessly. | Next.js, React, Recharts, DaisyUI, Tailwind CSS | [Live Demo](https://YOUR-KEENKEEPER-DEMO-LINK) · [Code](https://github.com/jk-jumur/keenkeeper) |
 
 ---
 
-### 📊 GITHUB STATISTICS & ANALYSIS:
+### 🐍 CONTRIBUTION SNAKE ANIMATION:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 📊 GITHUB STATISTICS:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
