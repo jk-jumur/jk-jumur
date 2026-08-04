@@ -99,12 +99,12 @@
 
 ---
 
-### 💻 RANDOM DEV QUOTE:
+### 💬 WORDS I LIVE BY:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vcenter=true&width=750&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman" alt="Meaningful Dev Quotes" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jk-jumur&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jk-jumur&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
