@@ -2,9 +2,11 @@
   <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/main/banner.png" alt="Jannatul Khusbu Banner" width="100%" />
 </p>
 
-# Hi 👋, I'm Jannatul Khusbu (Jumur)
+# Hi <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-emojis/master/handwave.gif" width="30px">, This is Jannatul Khusbu (Jumur)
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100px">
 
 A passionate **Full-Stack Developer** specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
@@ -65,21 +67,20 @@ A passionate **Full-Stack Developer** specializing in building modern, scalable,
 
 ---
 
-### 🐍 CONTRIBUTION SNAKE ANIMATION:
+### 📊 GITHUB STATISTICS & ANALYSIS:
 
+#### GitHub Contributions:
 <p align="center">
   <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
-
-### 📊 GITHUB STATISTICS:
-
+#### GitHub Statistics:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+#### Repository Stats & Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-jumur&theme=tokyonight&hide_border=true" alt="jk-jumur streak" />
 </p>
