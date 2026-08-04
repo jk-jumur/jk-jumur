@@ -7,18 +7,17 @@
 ### Full-Stack Web Developer | MERN & Next.js Specialist
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&width=435&lines=🐱+Welcome+to+my+GitHub+Profile!;💻+Building+Modern+Web+Applications..." alt="Cat Animation Text" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J5aHRzaDZieDRkczA0b3lsZGszcHRnNnB3Y2dtOW9ndWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lq0h93752f6J9tijrh/giphy.gif" width="70px" alt="Cat Animation" />
 </p>
 
 A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
-- 
+- 📍 Location: **Feni, Bangladesh**
 - 💡 I would like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I'm currently working on **React.js, Next.js (15+), and Modern Web UI**
 - ⚙️ Using **Node.js, Express.js, and MongoDB** for backend services
 - 👯 I'm looking to collaborate on **Full-Stack Projects & Open Source**
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
-- 📍 Location: **Feni, Bangladesh**
 - 💬 Ask me about anything **[here](mailto:jumur581@gmail.com)**
 
 ---
@@ -69,12 +68,10 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ---
 
-### 💼 FEATURED PROJECTS:
+### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **SkillSphere** | Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. | Next.js 15, React 19, MongoDB, HeroUI, Tailwind CSS | [Live Demo](https://skillsphere.vercel.app) · [Code](https://github.com/jk-jumur/skillsphere) |
-| **KeenKeeper** | Friendship management platform designed to organize and maintain personal relationships effortlessly. | Next.js, React, Recharts, DaisyUI, Tailwind CSS | [Live Demo](https://YOUR-KEENKEEPER-DEMO-LINK) · [Code](https://github.com/jk-jumur/keenkeeper) |
+- 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
+- 🤝 **KeenKeeper:** A smart friendship management platform designed to organize and maintain personal relationships effortlessly. Built with Next.js, React, Recharts, DaisyUI, and Tailwind CSS.
 
 ---
 
@@ -85,19 +82,18 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
   <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-#### GitHub Statistics:
+#### Repository Stats & Streak:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-jumur&theme=tokyonight&hide_border=true" alt="jk-jumur streak" />
 </p>
 
 ---
 
 ### 💬 WORDS I LIVE BY:
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vcenter=true&width=750&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman" alt="Meaningful Dev Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vcenter=true&width=780&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Meaningful Dev Quotes" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jk-jumur&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
