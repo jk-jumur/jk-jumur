@@ -1,30 +1,53 @@
-<img width="1200" height="400" alt="Add a heading" src="https://github.com/user-attachments/assets/e86eb7a6-e916-422c-bfa3-4ae9508cf47b" />
+<img width="1200" height="400" alt="Banner" src="https://github.com/user-attachments/assets/e86eb7a6-e916-422c-bfa3-4ae9508cf47b" />
 
+<h1 align="center">Hi 👋, This is Jannatul Khusbu</h1>
 
-# Hi 👋, This is Jannatul Khusbu (Jumur)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=38BDF8&center=true&vcenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+%26+Next.js+Specialist;Passionate+Coder" alt="Typing Animation" />
+</p>
+
+---
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
 
-
 A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
+<br>
 
 - 💡 I would like to explore new technologies and develop software solutions and quick hacks.
+<br>
+
 - 🌱 I'm currently working on **React.js, Next.js (15+), and Modern Web UI**
+<br>
+
 - ⚙️ Using **Node.js, Express.js, and MongoDB** for backend services
+<br>
+
 - 👯 I'm looking to collaborate on **Full-Stack Projects & Open Source**
+<br>
+
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
+<br>
+
 - 📍 Location: **Feni, Bangladesh**
+<br>
+
 - 💬 Ask me about anything **[here](mailto:jumur581@gmail.com)**
 
 ---
 
+<br>
+
 ### 🚀 Featured Projects
 
 - 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
+<br>
+
 - 🤝 **KeenKeeper:** A smart friendship management platform designed to organize and maintain personal relationships effortlessly. Built with Next.js, React, Recharts, DaisyUI, and Tailwind CSS.
 
 ---
+
+<br>
 
 ### 🌐 CONNECT WITH ME:
 
@@ -41,6 +64,8 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 </p>
 
 ---
+
+<br>
 
 ### 🛠️ TECH STACK:
 
@@ -72,6 +97,8 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ---
 
+<br>
+
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
 #### GitHub Contributions:
@@ -86,11 +113,14 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ---
 
+<br>
+
 ### 💬 WORDS I LIVE BY:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vcenter=true&width=780&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+-+Robert+C.+Martin;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Meaningful Dev Quotes" />
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jk-jumur&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
