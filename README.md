@@ -2,22 +2,23 @@
   <img src="https://raw.githubusercontent.com/jk-jumur/jk-jumur/main/banner.png" alt="Jannatul Khusbu Banner" width="100%" />
 </p>
 
-# Hi <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-emojis/master/handwave.gif" width="30px">, This is Jannatul Khusbu (Jumur)
+# Hi 👋, This is Jannatul Khusbu (Jumur)
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100px">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60px" alt="Cat Animation">
+</p>
 
-A passionate **Full-Stack Developer** specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
+A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
----
-
-### ⚡ QUICK OVERVIEW:
-
-- 💻 **Frontend Focus:** React.js, Next.js (15+), JavaScript (ES6+), Tailwind CSS, HeroUI, DaisyUI
-- ⚙️ **Backend Focus:** Node.js, Express.js, MongoDB, RESTful APIs, Authentication
-- 🚀 **Currently Exploring:** Advanced Next.js features, System Architecture, and Performance Optimization
-- 🎯 **Let's Connect:** Open for Full-Stack collaborations, freelance projects, and tech discussions!
+- 📍 Location: **Feni, Bangladesh**
+- 💡 I would like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I'm currently working on **HTML, CSS, Tailwind CSS, DaisyUI, HeroUI, JavaScript, React.js & Next.js**
+- ⚙️ Using **Node.js, Express.js, and MongoDB** for the backend
+- 👯 I'm looking to collaborate on **Full-Stack Projects**
+- ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
+- 💬 Ask me about **Full-Stack (HTML, CSS, Tailwind, DaisyUI, HeroUI, JS, React, Next.js, Node.js, Express.js, MongoDB)**
 
 ---
 
@@ -39,18 +40,27 @@ A passionate **Full-Stack Developer** specializing in building modern, scalable,
 
 ### 🛠️ TECH STACK:
 
+#### Frontend & UI Frameworks:
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+#### Backend & Database:
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### Tools & Platforms:
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -76,8 +86,8 @@ A passionate **Full-Stack Developer** specializing in building modern, scalable,
 
 #### GitHub Statistics:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 #### Repository Stats & Streak:
