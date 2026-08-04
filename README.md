@@ -5,9 +5,8 @@
 # Hi 👋, This is Jannatul Khusbu (Jumur)
 
 ### Full-Stack Web Developer | MERN & Next.js Specialist
-
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J5aHRzaDZieDRkczA0b3lsZGszcHRnNnB3Y2dtOW9ndWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lq0h93752f6J9tijrh/giphy.gif" width="70px" alt="Cat Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60px" alt="Cat Animation">
 </p>
 
 A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
