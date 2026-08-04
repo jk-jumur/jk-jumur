@@ -1,4 +1,5 @@
-<img width="1200" height="400" alt="Banner" src="https://github.com/user-attachments/assets/e86eb7a6-e916-422c-bfa3-4ae9508cf47b" />
+<img width="1200" height="400" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/04aa10b4-99d0-48af-add2-f419ec81c11e" />
+
 
 <h1 align="center">Hi 👋, This is Jannatul Khusbu</h1>
 
@@ -52,6 +53,9 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 ### 🌐 CONNECT WITH ME:
 
 <p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://facebook.com/KhusbuJannat" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
