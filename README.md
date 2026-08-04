@@ -7,18 +7,19 @@
 ### Full-Stack Web Developer | MERN & Next.js Specialist
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60px" alt="Cat Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&width=435&lines=🐱+Welcome+to+my+GitHub+Profile!;💻+Building+Modern+Web+Applications..." alt="Cat Animation Text" />
 </p>
 
 A passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. With expertise spanning from React/Next.js on the frontend to Node.js/Express and MongoDB on the backend, I am dedicated to delivering clean, efficient code and seamless user experiences.
 
-- 📍 Location: **Feni, Bangladesh**
+- 
 - 💡 I would like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I'm currently working on **HTML, CSS, Tailwind CSS, DaisyUI, HeroUI, JavaScript, React.js & Next.js**
-- ⚙️ Using **Node.js, Express.js, and MongoDB** for the backend
-- 👯 I'm looking to collaborate on **Full-Stack Projects**
+- 🌱 I'm currently working on **React.js, Next.js (15+), and Modern Web UI**
+- ⚙️ Using **Node.js, Express.js, and MongoDB** for backend services
+- 👯 I'm looking to collaborate on **Full-Stack Projects & Open Source**
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
-- 💬 Ask me about **Full-Stack (HTML, CSS, Tailwind, DaisyUI, HeroUI, JS, React, Next.js, Node.js, Express.js, MongoDB)**
+- 📍 Location: **Feni, Bangladesh**
+- 💬 Ask me about anything **[here](mailto:jumur581@gmail.com)**
 
 ---
 
@@ -86,13 +87,8 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 #### GitHub Statistics:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-#### Repository Stats & Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-jumur&theme=tokyonight&hide_border=true" alt="jk-jumur streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jk-jumur&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-jumur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
