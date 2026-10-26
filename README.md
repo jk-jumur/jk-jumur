@@ -19,26 +19,18 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 <br>
 
 - 💡 I would like to explore new technologies and develop software solutions and quick hacks.
-<br>
 
 - 🌱 I'm currently working on **React.js, Next.js (15+), and Modern Web UI**
-<br>
 
 - ⚙️ Using **Node.js, Express.js, and MongoDB** for backend services
-<br>
 
 - 👯 I'm looking to collaborate on **Full-Stack Projects & Open Source**
-<br>
 
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
-<br>
 
-<br>
 - 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1RM5bs6l9GNpBaL1HacBIPW-_CoLALuqU/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-<br>
 
 - 📍 Location: **Feni, Bangladesh**
-<br>
 
 - 💬 Ask me about anything **[here](mailto:jumur581@gmail.com)**
 
