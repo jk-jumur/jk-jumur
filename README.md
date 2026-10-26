@@ -44,9 +44,12 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 * 🏋️‍♂️ **[GymPilot](https://gympilot-client.vercel.app)** — *Fitness & Gym Management Platform*
-  * **Overview:** Full-stack gym management ecosystem featuring role-based access control (RBAC), Stripe Checkout payments, trainer booking systems, and interactive analytical dashboards.
-  * **Tech Stack:** `Next.js` `React` `Express.js` `MongoDB` `BetterAuth` `Stripe API` `Tailwind CSS` `HeroUI`
+  * **Overview:** Full-stack gym management ecosystem featuring role-based access control (RBAC), Stripe Checkout payments, trainer booking systems, and interactive analytical dashboards for admins.
+  * **Key Features:** Admin Analytics Dashboard with Interactive Charts, RBAC Authorization, Stripe API Integration, Dynamic Booking Management.
+  * **Tech Stack:** `Next.js` `React` `Express.js` `MongoDB` `BetterAuth` `Stripe API` `Recharts` `Tailwind CSS` `HeroUI`
 
 ---
 
@@ -54,14 +57,17 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
   * **Overview:** A modern gig platform connecting developers with tech opportunities, featuring real-time candidate-gig matching, dynamic filters, custom themes, and smooth animations.
   * **Tech Stack:** `Next.js 16` `React 19` `Firebase Auth` `Framer Motion` `Tailwind CSS` `Sonner`
 
+---
 
-
-- 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
-<br>
-
-- 🤝 **KeenKeeper:** A smart friendship management platform designed to organize and maintain personal relationships effortlessly. Built with Next.js, React, Recharts, DaisyUI, and Tailwind CSS.
+* 🎓 **[SkillSphere](https://skillsphere-psi-six.vercel.app)** — *Interactive E-Learning Platform*
+  * **Overview:** Scalable e-learning platform empowering learners with structured course discovery, personalized progress tracking, category filtering, and secure multi-provider authentication.
+  * **Tech Stack:** `Next.js 15` `React 19` `MongoDB` `BetterAuth` `Google OAuth` `HeroUI` `Tailwind CSS`
 
 ---
+
+* 🤝 **[KeenKeeper](https://assignment-7-inky.vercel.app/)** — *Smart Relationship Management Platform*
+  * **Overview:** An intuitive personal CRM application designed to seamlessly organize, track, and maintain personal relationships with visual interaction analytics.
+  * **Tech Stack:** `Next.js` `React` `Recharts` `DaisyUI` `Tailwind CSS`
 
 <br>
 
