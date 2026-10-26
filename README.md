@@ -34,7 +34,7 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 <br>
 
 <br>
-- 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1RM5bs6l9GNpBaL1HacBIPW-_CoLALuqU/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+   - 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1RM5bs6l9GNpBaL1HacBIPW-_CoLALuqU/view?usp=sharing) for more details      about me. I'm open to feedback and suggestions!
 <br>
 
 - 📍 Location: **Feni, Bangladesh**
