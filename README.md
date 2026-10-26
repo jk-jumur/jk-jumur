@@ -44,6 +44,18 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ### 🚀 Featured Projects
 
+* 🏋️‍♂️ **[GymPilot](https://gympilot-client.vercel.app)** — *Fitness & Gym Management Platform*
+  * **Overview:** Full-stack gym management ecosystem featuring role-based access control (RBAC), Stripe Checkout payments, trainer booking systems, and interactive analytical dashboards.
+  * **Tech Stack:** `Next.js` `React` `Express.js` `MongoDB` `BetterAuth` `Stripe API` `Tailwind CSS` `HeroUI`
+
+---
+
+* 💼 **[DevGigs](https://devgigs.vercel.app)** — *Developer Freelance Marketplace*
+  * **Overview:** A modern gig platform connecting developers with tech opportunities, featuring real-time candidate-gig matching, dynamic filters, custom themes, and smooth animations.
+  * **Tech Stack:** `Next.js 16` `React 19` `Firebase Auth` `Framer Motion` `Tailwind CSS` `Sonner`
+
+
+
 - 🎓 **SkillSphere:** Interactive E-Learning platform empowering learners with structured courses and personalized progress tracking. Built with Next.js 15, React 19, MongoDB, HeroUI, and Tailwind CSS.
 <br>
 
