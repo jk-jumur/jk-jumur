@@ -33,6 +33,10 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
 <br>
 
+<br>
+    📄 **[Resume](https://drive.google.com/file/d/1RM5bs6l9GNpBaL1HacBIPW-_CoLALuqU/view?usp=sharing)**
+<br>
+
 - 📍 Location: **Feni, Bangladesh**
 <br>
 
@@ -44,7 +48,6 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 ### 🚀 Featured Projects
 
-### 🚀 Featured Projects
 
 * 🏋️‍♂️ **[GymPilot](https://gympilot-client.vercel.app)** — *Fitness & Gym Management Platform*
   * **Overview:** Full-stack gym management ecosystem featuring role-based access control (RBAC), Stripe Checkout payments, trainer booking systems, and interactive analytical dashboards for admins.
