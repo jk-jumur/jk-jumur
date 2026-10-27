@@ -28,7 +28,7 @@ A passionate Full-Stack Developer specializing in building modern, scalable, and
 
 - ✉️ You can shoot me an email at **[jumur581@gmail.com](mailto:jumur581@gmail.com)**! I'll try to respond as soon as I can.
 
-- 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1RM5bs6l9GNpBaL1HacBIPW-_CoLALuqU/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/13_quifommC6h7pNeGQCICm68kttaCoMq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 - 📍 Location: **Feni, Bangladesh**
 
